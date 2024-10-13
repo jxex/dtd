@@ -27,7 +27,7 @@ header{
     font-family:"Noto Sans", sans-serif;
 }
 
-.title-btn:link, .title-btn:active, .title-btn:visited{
+.title-btn{
     text-decoration: none;
 }
 
