@@ -18,11 +18,25 @@ header{
     margin-bottom: 8px;
 }
 
+.title-btn{
+    font-size: 44px;
+    line-height: normal;
+    font-weight:900;
+    margin: 0;
+    color: #778a50;
+    font-family:"Noto Sans", sans-serif;
+}
+
+.title-btn:link, .title-btn:active, .title-btn:visited{
+    text-decoration: none;
+}
+
 header h1{
     font-size: 44px;
     line-height: normal;
     font-weight:900;
     margin: 0;
+    color: #778a50;
 }
 
 .header-right{
