@@ -18,7 +18,7 @@ header{
     margin-bottom: 8px;
 }
 
-.title-btn{
+.title-btn:hover{
     font-size: 44px;
     line-height: normal;
     font-weight:900;
